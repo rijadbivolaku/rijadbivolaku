@@ -1,9 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm <b>Rijad Bivolaku</b>, Web Developer focused in Frontend Development. Currently I'm working at <a href="https://www.frakton.com">Frakton</a>.
+I'm <b>Rijad Bivolaku</b>, Web Developer focused in Frontend Development. Currently I'm working at <a href="[https://www.frakton.com](https://wavecompany.fi/)">Wave Company</a>.
 
 It’s easy to tell you what does it for me: a cup of coffee (or 5), early mornings, learning new skills. But telling you what I do is even easier, <b>I react</b> :rocket:.
 
-Besides reacting, I have a very close relationship with [![](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript), I love it and all the frameworks it brings to the table.
+Besides reacting, I'm very enthusiactic in working with any other [![](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) frameworks or libraries including **Angular**, **Vue**, **Svelte**, etc.
 
 
  # :coffee: with me ?
