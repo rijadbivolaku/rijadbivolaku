@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm <b>Rijad Bivolaku</b>, Web Developer focused in Frontend Development. Currently I'm working at <a href="https://wavecompany.fi/">Wave Company</a>.
+I'm <b>Rijad Bivolaku</b>, Web Developer focused in Frontend Development. Currently I'm working at <a href="https://www.technexus.io/">TECHNEXUS</a>.
 
 It’s easy to tell you what does it for me: a cup of coffee (or 5), early mornings, learning new skills. But telling you what I do is even easier, <b>I react</b> :rocket:.
 
